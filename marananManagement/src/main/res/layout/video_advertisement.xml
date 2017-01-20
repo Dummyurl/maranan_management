@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:swipe="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tv_videoAdd_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/financial_bg"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="VideoAdvertisements"
+        android:textColor="@android:color/white"
+        android:textSize="15sp"
+        android:textStyle="normal" />
+
+    <com.marananmanagement.swipetodismiss.SwipeListView
+        android:id="@+id/lv_video_add"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@android:color/white"
+        android:dividerHeight="2dp"
+        android:layout_below="@+id/tv_videoAdd_title"
+        android:scrollbars="none"
+        swipe:swipeBackView="@+id/back_video_add"
+        swipe:swipeFrontView="@+id/front_video_add"
+        swipe:swipeMode="right" />
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:progressDrawable="@drawable/circular_progress_bar"
+        android:visibility="visible" />
+
+
+
+</RelativeLayout>

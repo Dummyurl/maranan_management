@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/edt_sub_no"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/blue_bg_edt"
+        android:ems="10"
+        android:inputType="phone"
+        android:paddingLeft="100dp"
+        android:paddingRight="35dp"
+        android:text=""
+        android:textColor="@android:color/white"
+        android:textSize="15sp" >
+    </EditText>
+
+    <ImageView
+        android:id="@+id/img_record_no"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="8dp"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/record" />
+
+    <Spinner
+        android:id="@+id/spnr_code"
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:background="@color/blue_bg_dark_edt"
+        android:textColor="@android:color/white" />
+
+</RelativeLayout>

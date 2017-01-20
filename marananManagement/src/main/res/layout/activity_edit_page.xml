@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:fillViewport="true"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/tv_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="@dimen/_10sdp"
+            android:layout_marginRight="@dimen/_10sdp"
+            android:text=""
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/_20sdp"
+            android:visibility="invisible" />
+
+        <EditText
+            android:id="@+id/edit_page"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/_150sdp"
+            android:layout_below="@+id/tv_time"
+            android:layout_marginLeft="@dimen/_10sdp"
+            android:layout_marginRight="@dimen/_10sdp"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:background="@drawable/bg_box"
+            android:gravity="top"
+            android:paddingRight="@dimen/_40sdp"
+            android:paddingLeft="@dimen/_10sdp"
+            android:paddingTop="@dimen/_15sdp"
+            android:text=""
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/_15sdp" >
+        </EditText>
+
+        <ImageView
+            android:id="@+id/img_record_sms"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/_30sdp"
+            android:layout_marginTop="@dimen/_42sdp"
+            android:background="@drawable/record"
+            android:contentDescription="@string/app_name"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:id="@+id/ll_edit_page_btn"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/edit_page"
+            android:layout_marginLeft="@dimen/_10sdp"
+            android:layout_marginRight="@dimen/_10sdp"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:orientation="horizontal"
+            android:weightSum="7" >
+
+            <Button
+                android:id="@+id/btn_saturday"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_30sdp"
+                android:layout_marginRight="@dimen/_3sdp"
+                android:layout_weight="1"
+                android:background="@drawable/bg_hollow"
+                android:text="@string/Saturday"
+                android:textColor="@color/DeepSkyBlue" />
+
+            <Button
+                android:id="@+id/btn_friday"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_30sdp"
+                android:layout_marginRight="@dimen/_3sdp"
+                android:layout_weight="1"
+                android:background="@drawable/bg_hollow"
+                android:text="@string/Friday"
+                android:textColor="@color/DeepSkyBlue" />
+
+            <Button
+                android:id="@+id/btn_thursday"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_30sdp"
+                android:layout_marginRight="@dimen/_3sdp"
+                android:layout_weight="1"
+                android:background="@drawable/bg_hollow"
+                android:text="@string/Thursday"
+                android:textColor="@color/DeepSkyBlue" />
+
+            <Button
+                android:id="@+id/btn_wednesday"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_30sdp"
+                android:layout_marginRight="@dimen/_3sdp"
+                android:layout_weight="1"
+                android:background="@drawable/bg_hollow"
+                android:text="@string/Wednesday"
+                android:textColor="@color/DeepSkyBlue" />
+
+            <Button
+                android:id="@+id/btn_tuesday"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_30sdp"
+                android:layout_marginRight="@dimen/_3sdp"
+                android:layout_weight="1"
+                android:background="@drawable/bg_hollow"
+                android:text="@string/Tuesday"
+                android:textColor="@color/DeepSkyBlue" />
+
+            <Button
+                android:id="@+id/btn_Monday"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_30sdp"
+                android:layout_marginRight="@dimen/_3sdp"
+                android:layout_weight="1"
+                android:background="@drawable/bg_hollow"
+                android:text="@string/Monady"
+                android:textColor="@color/DeepSkyBlue" />
+
+            <Button
+                android:id="@+id/btn_Sunday"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_30sdp"
+                android:layout_weight="1"
+                android:background="@drawable/bg_hollow"
+                android:text="@string/Sunday"
+                android:textColor="@color/DeepSkyBlue" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_toggle_spin"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ll_edit_page_btn"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <ToggleButton
+                android:id="@+id/toggle_btn"
+                android:layout_width="@dimen/_100sdp"
+                android:layout_height="@dimen/_38sdp"
+                android:background="@drawable/selector" />
+
+            <Spinner
+                android:id="@+id/spinner_time_Hr"
+                android:layout_width="@dimen/_90sdp"
+                android:layout_height="@dimen/_38sdp"
+                android:background="@android:color/transparent" />
+
+            <Spinner
+                android:id="@+id/spinner_time_min"
+                android:layout_width="@dimen/_90sdp"
+                android:layout_height="@dimen/_38sdp"
+                android:background="@android:color/transparent" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_button_up"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ll_toggle_spin"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:visibility="gone" >
+
+            <Button
+                android:id="@+id/btn_sms"
+                android:layout_width="@dimen/_60sdp"
+                android:layout_height="@dimen/_60sdp"
+                android:layout_marginRight="@dimen/_10sdp"
+                android:background="@drawable/sms_gray"
+                android:visibility="visible" />
+
+            <Button
+                android:id="@+id/btn_whatsapp"
+                android:layout_width="@dimen/_60sdp"
+                android:layout_height="@dimen/_60sdp"
+                android:layout_marginRight="@dimen/_10sdp"
+                android:background="@drawable/wats_app_gray"
+                android:visibility="visible" />
+
+            <Button
+                android:id="@+id/btn_mail"
+                android:layout_width="@dimen/_60sdp"
+                android:layout_height="@dimen/_60sdp"
+                android:background="@drawable/mail_gray"
+                android:visibility="visible" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_button"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ll_button_up"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/btn_save_publish"
+                android:layout_width="@dimen/_60sdp"
+                android:layout_height="@dimen/_60sdp"
+                android:layout_marginRight="@dimen/_10sdp"
+                android:background="@drawable/broadcast_sms"
+                android:visibility="visible" />
+
+            <Button
+                android:id="@+id/btn_save"
+                android:layout_width="@dimen/_60sdp"
+                android:layout_height="@dimen/_60sdp"
+                android:background="@drawable/disk_icon"
+                android:visibility="visible" />
+
+            <Button
+                android:id="@+id/btn_broadcast"
+                android:layout_width="@dimen/_60sdp"
+                android:layout_height="@dimen/_60sdp"
+                android:layout_marginRight="@dimen/_10sdp"
+                android:background="@drawable/broadcast_sms"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/btn_disk"
+                android:layout_width="@dimen/_60sdp"
+                android:layout_height="@dimen/_60sdp"
+                android:layout_marginRight="@dimen/_10sdp"
+                android:background="@drawable/disk_icon"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/btn_enter"
+                android:layout_width="@dimen/_60sdp"
+                android:layout_height="@dimen/_60sdp"
+                android:background="@drawable/enter"
+                android:visibility="gone" />
+        </LinearLayout>
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            style="?android:attr/progressBarStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:progressDrawable="@drawable/circular_progress_bar"
+            android:visibility="visible" />
+
+    </RelativeLayout>
+
+</ScrollView>

@@ -1,0 +1,265 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <android.support.v4.widget.DrawerLayout
+        android:id="@+id/drawer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <!-- Framelayout to display Fragments -->
+
+        <FrameLayout
+            android:id="@+id/frame_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <RelativeLayout
+                android:id="@+id/lll"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+                    android:id="@+id/rll"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+
+                    <TextView
+                        android:id="@+id/tv_list"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="10dp"
+                        android:text="@string/management_endowment"
+                        android:textColor="@android:color/black"
+                        android:textSize="15sp" />
+
+                    <ImageView
+                        android:id="@+id/img_menu_icon"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_alignParentRight="true"
+                        android:layout_marginTop="5dp"
+                        android:contentDescription="@string/app_name"
+                        android:src="@drawable/menu_icon" />
+                </RelativeLayout>
+
+                <View
+                    android:id="@+id/view_main"
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_below="@+id/rll"
+                    android:background="@android:color/black" />
+
+                <com.handmark.pulltorefresh.libraries.PullToRefreshListView
+                    android:id="@+id/pull_refresh_list"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_marginTop="5dp"
+                    android:cacheColorHint="@android:color/black"
+                    android:divider="@android:color/black"
+                    android:dividerHeight="1dp"
+                    android:fadingEdge="none"
+                    android:layout_below="@+id/view_main"
+                    android:fastScrollEnabled="false"
+                    android:footerDividersEnabled="false"
+                    android:headerDividersEnabled="false"
+                    android:smoothScrollbar="true" />
+
+                <ProgressBar
+                    android:id="@+id/progressBar"
+                    style="?android:attr/progressBarStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:progressDrawable="@drawable/circular_progress_bar"
+                    android:visibility="visible" />
+
+            </RelativeLayout>
+        </FrameLayout>
+
+        <RelativeLayout
+            android:id="@+id/ll_btn"
+            android:layout_width="160dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="end"
+            android:background="@color/blue_bg_side_bar" >
+
+            <Button
+                android:id="@+id/btn_sms_sidebar"
+                android:layout_width="match_parent"
+                android:layout_height="25dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="50dp"
+                android:background="@drawable/icon_sms"
+                android:choiceMode="singleChoice" />
+
+            <View
+                android:id="@+id/view_sms"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_below="@+id/btn_sms_sidebar"
+                android:layout_marginTop="10dp"
+                android:background="@color/border_side_bar" />
+
+            <Button
+                android:id="@+id/btn_caution_sidebar"
+                android:layout_width="match_parent"
+                android:layout_height="25dp"
+                android:layout_below="@+id/view_sms"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/icon_caution"
+                android:choiceMode="singleChoice" />
+
+            <View
+                android:id="@+id/view_caution"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_below="@+id/btn_caution_sidebar"
+                android:layout_marginTop="10dp"
+                android:background="@color/border_side_bar" />
+
+            <Button
+                android:id="@+id/btn_radio_sidebar"
+                android:layout_width="match_parent"
+                android:layout_height="25dp"
+                android:layout_below="@+id/view_caution"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/icon_radio"
+                android:choiceMode="singleChoice" />
+
+            <View
+                android:id="@+id/view_radio"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_below="@+id/btn_radio_sidebar"
+                android:layout_marginTop="10dp"
+                android:background="@color/border_side_bar" />
+
+            <Button
+                android:id="@+id/btn_video_sidebar"
+                android:layout_width="match_parent"
+                android:layout_height="25dp"
+                android:layout_below="@+id/view_radio"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/icon_video"
+                android:choiceMode="singleChoice" />
+
+            <View
+                android:id="@+id/view_video"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_below="@+id/btn_video_sidebar"
+                android:layout_marginTop="10dp"
+                android:background="@color/border_side_bar" />
+
+            <Button
+                android:id="@+id/btn_dedication"
+                android:layout_width="match_parent"
+                android:layout_height="25dp"
+                android:layout_below="@+id/view_video"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/icon_dedication"
+                android:choiceMode="singleChoice" />
+
+            <View
+                android:id="@+id/view_dedication"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_below="@+id/btn_dedication"
+                android:layout_marginTop="10dp"
+                android:background="@color/border_side_bar" />
+
+            <Button
+                android:id="@+id/btn_awareness"
+                android:layout_width="match_parent"
+                android:layout_height="25dp"
+                android:layout_below="@+id/view_dedication"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/icon_awareness"
+                android:choiceMode="singleChoice" />
+
+            <View
+                android:id="@+id/view_awareness"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_below="@+id/btn_awareness"
+                android:layout_marginTop="10dp"
+                android:background="@color/border_side_bar" />
+
+            <Button
+                android:id="@+id/btn_tel"
+                android:layout_width="match_parent"
+                android:layout_height="25dp"
+                android:layout_below="@+id/view_awareness"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="5dp"
+                android:background="@android:color/transparent"
+                android:choiceMode="singleChoice"
+                android:gravity="left|center"
+                android:text="@string/tel_like"
+                android:textColor="@android:color/white"
+                android:textSize="20sp" />
+
+            <View
+                android:id="@+id/view_tel"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_below="@+id/btn_tel"
+                android:layout_marginTop="10dp"
+                android:background="@color/border_side_bar" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/view_tel" >
+
+                <Button
+                    android:id="@+id/btn_newsletter"
+                    android:layout_width="match_parent"
+                    android:layout_height="25dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="8dp"
+                    android:background="@drawable/icon_newsletter"
+                    android:choiceMode="singleChoice" />
+
+                <Button
+                    android:id="@+id/btn_newsletter_collapse"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerInParent="true"
+                    android:layout_marginTop="8dp"
+                    android:background="@drawable/collapse_arrow" />
+
+                <ListView
+                    android:id="@+id/lv_years"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/btn_newsletter"
+                    android:divider="@android:color/transparent"
+                    android:dividerHeight="0dp"
+                    android:visibility="gone" >
+                </ListView>
+            </RelativeLayout>
+        </RelativeLayout>
+    </android.support.v4.widget.DrawerLayout>
+
+</LinearLayout>

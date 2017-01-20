@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/interpolator/sb__accelerate_cubic.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.nispok/snackbar/2.11.0/res/interpolator/sb__accelerate_cubic.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/interpolator/sb__decelerate_cubic.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.nispok/snackbar/2.11.0/res/interpolator/sb__decelerate_cubic.xml"
+    }
+]

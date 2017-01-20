@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/channelplaylist.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/channelplaylist.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/list_item_edt2.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/list_item_edt2.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/list_item_edt_one.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/list_item_edt_one.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/pull_to_refresh_header_vertical.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/MarananManagement/pulltorefreshlibrary/unspecified/res/layout/pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/radio_lecture_list.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/radio_lecture_list.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/sms_lits_items.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/sms_lits_items.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/activity_live_broadcast.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/activity_live_broadcast.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/spinner_tv_items.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/spinner_tv_items.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/channel_playlist_items.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/channel_playlist_items.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/channelmanagement.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/channelmanagement.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/file.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/MarananManagement/aFileChooser/unspecified/res/layout/file.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/add_subscriber.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/add_subscriber.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/alert_edit_pager_chooser_view.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/alert_edit_pager_chooser_view.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/tel_activity_items.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/tel_activity_items.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/activity_edit_alert_page.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/activity_edit_alert_page.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/channelmanagement_list_items.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/channelmanagement_list_items.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/spinner_background.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/spinner_background.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/financialmanagement.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/financialmanagement.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/video_advertisement_items.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/video_advertisement_items.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/bug_report_view.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/bug_report_view.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/live_images_items.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/live_images_items.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/activity_list_items.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/activity_list_items.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/newsletter_years_items.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/newsletter_years_items.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/sb__template.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.nispok/snackbar/2.11.0/res/layout/sb__template.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/activity_management.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/activity_management.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/activity_navigation_drawer.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/activity_navigation_drawer.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/activity_video_play.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/activity_video_play.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/tel_activity.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/tel_activity.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/video_advertisement.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/video_advertisement.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/activity_list.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/activity_list.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/custom_dialog_message.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/custom_dialog_message.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/clock_text_item.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/clock_text_item.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/activity_sms.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/activity_sms.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/spinner_new_back.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/spinner_new_back.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/spinner_item_background.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/spinner_item_background.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/radio_programs_list_items.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/radio_programs_list_items.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/live_broadcast_pick_image.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/live_broadcast_pick_image.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/input_output_clock.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/input_output_clock.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/radio_program_upload.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/radio_program_upload.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/pull_to_refresh_header_horizontal.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/MarananManagement/pulltorefreshlibrary/unspecified/res/layout/pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/activity_edit_page.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/activity_edit_page.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/accounts_items.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/accounts_items.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/update_datetime.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/update_datetime.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/show_accounts_dialog.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/show_accounts_dialog.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/list_items.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/src/main/res/layout/list_items.xml"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_time.xml"
+    }
+]

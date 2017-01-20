@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/aFileChooser/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_chooser.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/aFileChooser/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_chooser.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/aFileChooser/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_file.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/aFileChooser/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_file.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/aFileChooser/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_provider.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/aFileChooser/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_provider.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/aFileChooser/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_folder.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/aFileChooser/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_folder.png"
+    }
+]

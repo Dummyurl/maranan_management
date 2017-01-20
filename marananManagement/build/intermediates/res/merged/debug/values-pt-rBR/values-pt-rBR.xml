@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_file">Selecione um Arquivo</string>
+    <string name="empty_directory">Pasta Vazia</string>
+    <string name="error_selecting_file">Erro ao selecionar o Arquivo</string>
+    <string name="pull_to_refresh_pull_label">Puxe para atualizar…</string>
+    <string name="pull_to_refresh_refreshing_label">Carregando…</string>
+    <string name="pull_to_refresh_release_label">Libere para atualizar…</string>
+    <string name="storage_removed">Unidade externa removida ou não preparada.</string>
+</resources>

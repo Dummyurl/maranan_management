@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Maranan Management</string>
+    <string name="crash_toast_text">Maranan Mangement Crash</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="sms">SMS</string>
+    <string name="whats_up">WhatsUp</string>
+    <string name="mailer">Mailer</string>
+    <string name="radio">Radio</string>
+    <string name="send">Send</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_no">Enter Number</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="save">הקדש\u200e</string>
+    <string name="management_endowment">ניהול ההקדשות</string>
+    <string name="refusal_situation">מצב סירוב</string>
+    <string name="pending_approval">ומצב ממתין לאישור</string>
+    <string name="certificate_status">מצב אישור</string>
+    <string name="Sunday">א</string>
+    <string name="Monady">ב</string>
+    <string name="Tuesday">ג</string>
+    <string name="Wednesday">ד</string>
+    <string name="Thursday">ה</string>
+    <string name="Friday">ו</string>
+    <string name="Saturday">ש</string>
+    <string name="btn_alert">התראה</string>
+    <string name="toogle_turn_on">ON</string>
+    <string name="toogle_turn_of">OF</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="upload">העלה</string>
+    <string name="remainig_time">נותרו 2 ימים 23 שעות ו-42 דקות</string>
+    <string name="hours">שעות</string>
+    <string name="minutes">דקות</string>
+    <string name="days">ימים</string>
+    <string name="left">נותרו</string>
+    <string name="and">ו-</string>
+    <string name="alerts_message_one">You can not publish the plan, because time has not come yet broadcast.</string>
+    <string name="alerts_message_two">You can not publish the plan, because it is not scheduled for broadcast.</string>
+    <string name="radio_alerts">Radio Alerts</string>
+    <string name="newsletter_alerts">NewsLetter Alerts</string>
+    <string name="video_alerts">Video Alerts</string>
+    <string name="channel_alerts">Channel Alerts</string>
+    <string name="failed">Failed to initialize Youtube Player</string>
+    <string name="alert_delete">Alert Deleted</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="take_image">Take Image...</string>
+    <string name="user_not_found">Youtube Account User Not Found</string>
+    <string name="add_account_title">הוסף חשבון</string>
+    <string name="sequence_text">השהייה אזטזםטית לאחד</string>
+    <string name="financial_title">ניהל מזרעזת</string>
+    <string name="tel_like">כתל</string>
+    <string name="wall_title">מצלמזת הכתל</string>
+
+    <string-array name="alert">
+        <item>להתחיל את היום עם מרן
+סרטון יומי חדש של דקה עם מרן זמין עכשיו באפליקציה</item>
+        <item>השיעור השבוע של מרן זמין עכשיו ברדיו מרנן
+השיעור שודר לראשונה באמצעות הלוויין במוצאי שבת קודש פרשת חוקת בשנת תשע"א</item>
+        <item>זמני כניסת השבת
+ירושלים: 19:09
+בני ברק: 19:20
+חיפה: 19:18</item>
+    </string-array>
+    <string-array name="array_min">
+        <item>00</item>
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+    </string-array>
+    <string-array name="array_Hr">
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>00</item>
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+    </string-array>
+    <string-array name="country_codes">
+        <item>93</item>
+        <item>61</item>
+        <item>880</item>
+        <item>1</item>
+        <item>86</item>
+        <item>20</item>
+        <item>49</item>
+        <item>91</item>
+        <item>972</item>
+        <item>39</item>
+        <item>81</item>
+        <item>64</item>
+    </string-array>
+
+    <string name="chooser_title">Select PDF</string>
+    <string name="chooser_title_image">Select Image</string>
+    <string name="chooser_title2">Open Audio (mp3) file</string>
+    <string name="uploading">Uploading...</string>
+    <string name="superers">העלה</string>
+
+    <string-array name="days_sequence_array">
+        <item>ללא השהייה</item>
+        <item>5 ימים</item>
+        <item>10 ימים</item>
+        <item>20 ימים</item>
+        <item>30 ימים</item>
+        <item>40 ימים</item>
+    </string-array>
+
+    <string name="no_pause_heb">ללא השהייה</string>
+    <string name="five_days_heb">5 ימים</string>
+    <string name="ten_days_heb">10 ימים</string>
+    <string name="twenty_days_heb">20 ימים</string>
+    <string name="thirty_days_heb">30 ימים</string>
+    <string name="fourty_days_heb">40 ימים</string>
+    <string name="no_pause">0</string>
+    <string name="five_days">5</string>
+    <string name="ten_days">10</string>
+    <string name="twenty_days">20</string>
+    <string name="thirty_days">30</string>
+    <string name="fourty_days">40</string>
+
+</resources>

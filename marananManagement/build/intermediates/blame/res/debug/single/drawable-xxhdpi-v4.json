@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_folder.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/MarananManagement/aFileChooser/unspecified/res/drawable-xxhdpi-v4/ic_folder.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_file.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/MarananManagement/aFileChooser/unspecified/res/drawable-xxhdpi-v4/ic_file.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_chooser.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/MarananManagement/aFileChooser/unspecified/res/drawable-xxhdpi-v4/ic_chooser.png"
+    },
+    {
+        "merged": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_provider.png",
+        "source": "/home/ourdesignz/Android_Studio_Workspace/MarananManagement/marananManagement/build/intermediates/exploded-aar/MarananManagement/aFileChooser/unspecified/res/drawable-xxhdpi-v4/ic_provider.png"
+    }
+]
